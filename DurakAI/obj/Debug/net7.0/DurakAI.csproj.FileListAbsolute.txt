@@ -1,0 +1,15 @@
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\bin\Debug\net7.0\DurakAI.exe
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\bin\Debug\net7.0\DurakAI.deps.json
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\bin\Debug\net7.0\DurakAI.runtimeconfig.json
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\bin\Debug\net7.0\DurakAI.dll
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\bin\Debug\net7.0\DurakAI.pdb
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.dll
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\refint\DurakAI.dll
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.pdb
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\DurakAI.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Рабочий стол\c# learn\DurakAI\DurakAI\obj\Debug\net7.0\ref\DurakAI.dll
